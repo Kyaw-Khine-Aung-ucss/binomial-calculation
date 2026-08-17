@@ -71,4 +71,4 @@ Kyaw Khine Aung
 Computer Science Student | Junior Web Developer
 
 - GitHub: https://github.com/Kyaw-Khine-Aung-ucss
-- Portfolio: https://your-portfolio-link.netlify.app/
+- Portfolio: https://kyaw-khine-aung-portfolio.netlify.app/
